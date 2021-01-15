@@ -1,0 +1,1 @@
+Hello, This is text file2. Now I'm doing my assignment on git and github.
