@@ -1,1 +1,2 @@
 This is text file1.Now I'm in Demo repo two.
+I'm editing the file using VIM text using in my command line.
